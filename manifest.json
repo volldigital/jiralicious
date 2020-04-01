@@ -1,0 +1,28 @@
+{
+  "name": "VOLL jiralicious",
+  "version": "1.0",
+  "description": "Pimpt dein Jira Backlog!",
+  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "options_page": "options.html",
+  "page_action": {
+    "default_title": "VOLL jiralicious",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/voll_16_farbe.png",
+      "32": "images/voll_32_farbe.png",
+      "48": "images/voll_48_farbe.png",
+      "128": "images/voll_128_farbe.png"
+    }
+  },
+  "icons": {
+    "16": "images/voll_16_farbe.png",
+    "32": "images/voll_32_farbe.png",
+    "48": "images/voll_48_farbe.png",
+    "128": "images/voll_128_farbe.png"
+  },
+  "manifest_version": 2
+}
