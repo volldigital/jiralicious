@@ -1,4 +1,4 @@
-#Jiralicous
+# Jiralicous
 
 Ein Chrome Plugin um fehlende Funktionen in Jira zu kompensieren.
 
@@ -15,4 +15,4 @@ Installation:
 4. Wähle diesen Ordner aus
 
 Glückwunsch!
-Jetzt müsste das VOLL Logo in den Erweiterungen neben der Adresszeile erscheinen. Im Backlog der Jira Projekte (URL-Schema: volldigital.atlassian.net/secure/RapidBoard.jspa) sollte jetzt 
+Jetzt müsste das VOLL Logo in den Erweiterungen neben der Adresszeile erscheinen. Im Backlog der Jira Projekte (URL-Schema: volldigital.atlassian.net/secure/RapidBoard.jspa) sollte jetzt beim Klick ein Popup mit der Zusammenfassung deiner Tickets erscheinen.
